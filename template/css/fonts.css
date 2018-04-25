@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
+
+
+body{
+	font-family: Lora, sans-serif;
+}
+
+p{
+	font-family: CONSOLAS, sans-serif;
+}
+
+.logo{
+	font-family: Do Hyeon, sans-serif;
+}
+
+.navbar-nav{
+	font-family: constantia, sans-serif;
+}
+
+.Text-title{
+	font-family: FANTASY, sans-serif;
+}
+
+.big-size{
+	font-family: LUCIDA CONSOLE, sans-serif;
+}
+
+.address-phone{
+	font-family: LUCIDA CONSOLE, sans-serif;
+}
+
+.product-name{
+	font-family: DAYTON, sans-serif;
+}
+
+.catalog-title{
+	font-family: CONSOLAS, sans-serif;
+}
+
+.catalogTitle{
+	font-family: FANTASY, sans-serif;
+}
+
+.catalog-btn{
+	font-family: Lora, sans-serif;
+}
+
+.buy-product{
+	font-family: Lora, sans-serif;
+}
